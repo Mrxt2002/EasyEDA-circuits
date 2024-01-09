@@ -75,6 +75,6 @@ This project is licensed under the [MIT License](/LICENSE).
 
 For any inquiries, please contact:
 
-- **<Your Name>**
-  - Email: <Your Email>
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **Mrittik Chakraborti**
+  - Email: <chakrabortirittik200210@gmail.com>
+  - LinkedIn: [Mrittik Chakraborti](https://www.linkedin.com/in/mrittik-chakraborti-657441225/)
