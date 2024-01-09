@@ -17,7 +17,7 @@ Welcome to the Electronics Circuit Designs repository! This repository contains 
 
 ## TDA2050 Mono-amplifier
 
-![TDA2050 Mono-amplifier](/images/tda2050_mono_amplifier.png)
+![TDA2050 Mono-amplifier](https://github.com/Mrxt2002/EasyEDA-circuits/blob/master/7b48c6e057221e4b.jpg)
 
 Description: Brief description of the TDA2050 Mono-amplifier project.
 
@@ -33,7 +33,7 @@ Description: Brief description of the TDA2050 Mono-amplifier project.
 
 ## Colpitts Oscillator using SAW
 
-![Colpitts Oscillator using SAW](/images/colpitts_oscillator_saw.png)
+![Colpitts Oscillator using SAW](https://github.com/Mrxt2002/EasyEDA-circuits/blob/master/Screenshot%202024-01-09%20065623.png)
 
 Description: Brief description of the Colpitts Oscillator using SAW project.
 
@@ -49,7 +49,7 @@ Description: Brief description of the Colpitts Oscillator using SAW project.
 
 ## Soil Nutrient Sensor
 
-![Soil Nutrient Sensor](/images/soil_nutrient_sensor.png)
+![Soil Nutrient Sensor](https://github.com/Mrxt2002/EasyEDA-circuits/blob/master/OIP.jpeg)
 
 Description: Brief description of the Soil Nutrient Sensor project.
 
