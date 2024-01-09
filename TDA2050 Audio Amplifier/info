@@ -1,0 +1,301 @@
+{
+  "uuid": "4a7b610398f531568349aed3a8413f1e",
+  "path": "Offline/TDA2050%20Audio%20Amplifier",
+  "name": "TDA2050 Audio Amplifier",
+  "content": "The TDA2050 is a versatile audio amplifier integrated circuit designed for high-quality audio applications. Renowned for its reliability and efficiency, this monolithic chip delivers up to 32 watts of power with low distortion. Ideal for use in stereo amplifiers, the TDA2050 operates on a wide voltage range, ensuring flexibility in various audio setups. Its thermal and short-circuit protection mechanisms enhance durability, safeguarding against overheating and potential damage. With a straightforward design and excellent performance, the TDA2050 is a popular choice among audio enthusiasts and professionals seeking a compact, powerful solution for amplifying audio signals with precision and clarity.",
+  "created_at": "2023-12-29 12:47:37",
+  "updated_at": "2023-12-29 14:19:46",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e17c3d6a567bec3627ec6421b1c47d49",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "338030ea5c134fb7a2712f8a558bab79": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 4,
+        "051e82433622480baf76b2d808a648a4": 3,
+        "b0248eb51e084227889f2cb84eab79c4": 4,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.22uf",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "1uf",
+          1,
+          "CASE-E_7343",
+          "C2",
+          {
+            "Contributor": "LCEDA_Lib",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "C_Tan_SMD_E_EU",
+            "Manufacturer Part": "",
+            "puuid": "a47ddb4662c244eea5a22556ba2c09d6",
+            "uuid": "051e82433622480baf76b2d808a648a4"
+          }
+        ],
+        [
+          "22uf",
+          1,
+          "CASE-E_7343",
+          "C3",
+          {
+            "Contributor": "LCEDA_Lib",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "C_Tan_SMD_E_EU",
+            "Manufacturer Part": "",
+            "puuid": "a47ddb4662c244eea5a22556ba2c09d6",
+            "uuid": "051e82433622480baf76b2d808a648a4"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "0.1uf",
+          2,
+          "C0603",
+          "C5,C7",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "220uf",
+          1,
+          "CASE-E_7343",
+          "C8",
+          {
+            "Contributor": "LCEDA_Lib",
+            "Supplier Part": "",
+            "Supplier": "",
+            "spiceSymbolName": "C_Tan_SMD_E_EU",
+            "Manufacturer Part": "",
+            "puuid": "a47ddb4662c244eea5a22556ba2c09d6",
+            "uuid": "051e82433622480baf76b2d808a648a4"
+          }
+        ],
+        [
+          "DC input",
+          1,
+          "HDR-F-2.54_1X2",
+          "H1",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "Audio Output",
+          1,
+          "HDR-F-2.54_1X2",
+          "H2",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "Audio Input",
+          1,
+          "HDR-F-2.54_1X2",
+          "H3",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "22k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "680",
+          1,
+          "R0603",
+          "R2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "4.7",
+          1,
+          "R0603",
+          "R4",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ],
+        [
+          "TDA2050",
+          1,
+          "TO-220-5_L10.5-W15.5-P1.70-TL",
+          "U1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "UTC(友顺)",
+            "Manufacturer Part": "TDA2050L-TB5-T",
+            "Supplier Part": "C84890",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "TDA2050L-TB5-T",
+            "puuid": "bbff62476fa947bea4dcfe7f627ae54f",
+            "uuid": "338030ea5c134fb7a2712f8a558bab79"
+          }
+        ]
+      ],
+      "updateTime": 1703839685,
+      "createTime": 1703834258,
+      "histories": [],
+      "created_at": "2023-12-29 12:47:38",
+      "updated_at": "2023-12-29 14:18:05"
+    },
+    {
+      "uuid": "853b0c73e833eaec24a85ca45790ce69",
+      "puuid": "4a7b610398f531568349aed3a8413f1e",
+      "title": "PCB_TDA2050 Audio Amplifier",
+      "filename": "PCB_TDA2050 Audio Amplifier.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 5,
+        "a47ddb4662c244eea5a22556ba2c09d6": 3,
+        "36b1306a115341f4b4d9407fb34974e0": 3,
+        "398691f1f785460098bbe5ee6590333c": 4,
+        "bbff62476fa947bea4dcfe7f627ae54f": 1
+      },
+      "BOM": [],
+      "updateTime": 1703839786,
+      "createTime": 1703839786,
+      "histories": [],
+      "created_at": "2023-12-29 14:19:46",
+      "updated_at": "2023-12-29 14:19:46"
+    }
+  ],
+  "sort": [],
+  "title": "TDA2050 Audio Amplifier",
+  "foldername": "TDA2050 Audio Amplifier",
+  "schfilename": "TDA2050 Audio Amplifier.json",
+  "schfilemtime": 1703839685032
+}
